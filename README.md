@@ -1,3 +1,3 @@
 # Pytorch_GAN
 Pytorchを学びため
-tensorflowからPytorchのドキュメントを参考して移行する
+
