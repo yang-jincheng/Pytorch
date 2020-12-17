@@ -7,6 +7,7 @@ PyTorchを勉強するため、一人でニューラルネットワークやGAN�
 
 ## PyTorch docs
 https://pytorch.org/docs/stable/index.html
+
 http://www.pytorch123.com
 
 ## 目次
